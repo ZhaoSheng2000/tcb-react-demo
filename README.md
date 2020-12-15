@@ -1,3 +1,7 @@
+# 腾讯云开发 + React + Antd 创建的邮箱注册登录页面
+
+邮箱验证码的发送以及验证都由腾讯云开发提供
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
