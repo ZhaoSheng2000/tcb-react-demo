@@ -1,6 +1,5 @@
 import React from 'react'
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-
 import tcb from "tcb-js-sdk";
 
 import Home from '../home/home';

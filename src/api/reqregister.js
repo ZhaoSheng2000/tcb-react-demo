@@ -8,6 +8,7 @@ export const reqRegister =({email, password})=>app
   .signUpWithEmailAndPassword(email,password)
   .then(() => {
     console.log('发送邮件成功')
+    return({ data:200})
   })
   .catch((err) => {
     console.error('发送邮件err',err)
